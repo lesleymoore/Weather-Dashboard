@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(78, 4, 78);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.special {
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.btn {
+    background-color: rgb(78, 4, 78);
+}
